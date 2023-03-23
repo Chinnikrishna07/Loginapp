@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="label_login_en">Login</string>
+    <string name="label_email_en">Email</string>
+    <string name="label_password_en">Password</string>
+    <string name="button_nextcloudLogin">Login with Nextcloud</string>
+    <string name="button_affanwebLogin">Login with Affanweb</string>
+    <string name="label_forgot_pass_en">Forgot Password</string>
+    <string name="label_enter_Qns">Provide answers for the given Questions:</string>
+    <string name="hint_select_Q1">Question 1</string>
+    <string name="hint_select_Q2">Question 2</string>
+    <string name="button_verify">Verify</string>
+    </resources>
